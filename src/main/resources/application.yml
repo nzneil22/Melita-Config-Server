@@ -1,0 +1,13 @@
+
+server:
+  port: 8888
+spring:
+  application:
+    name: melita-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/nzneil22/melita-task
+    use-legacy-processing: true
+    bootstrap.enabled: true
