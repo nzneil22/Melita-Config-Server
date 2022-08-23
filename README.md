@@ -8,4 +8,4 @@ This config server provides configuration used by the Spring Boot Microservices 
 * https://github.com/nzneil22/Melita-Rest-Server
 
 The Configuration Files are acquired form the following repository:
-https://github.com/nzneil22/Melita-Config
+* https://github.com/nzneil22/Melita-Config
