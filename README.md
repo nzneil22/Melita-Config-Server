@@ -1,4 +1,4 @@
-# Melita-Config-Server
+# Melita-Config-Server Spring Cloud Config Server
 
 A configuration for the file `ConfigServerApplication.java` is to be run on intelliJ.
 
