@@ -7,5 +7,5 @@ This config server provides configuration used by the Spring Boot Microservices 
 * https://github.com/nzneil22/Melita-Message-Consumer
 * https://github.com/nzneil22/Melita-Rest-Server
 
-The Configuration Files are acquired form the following repository:
+The Configuration Files are acquired from the following repository:
 * https://github.com/nzneil22/Melita-Config
